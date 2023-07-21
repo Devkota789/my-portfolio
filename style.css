@@ -1,0 +1,70 @@
+body{
+    background-image: url(https://images4.newscred.com/Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color:rgb(79, 171, 194)
+}
+ul{
+    display: flex;
+    text-align: center;
+    height: 40px;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+/* ul li {
+    list-style: none;
+
+    
+} */
+li a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
+li a:hover {
+    text-decoration: none;
+    color:blue;
+}
+/* @media screen and {min-width: 700px;} {
+    .nav li{
+        width: 200px;
+    }
+}   }*/
+   .container{
+    border: 2px solid rgb(211, 149, 68);
+    text-align: center;
+    background-color: rgba(221, 43, 182, 0.781);
+    color: rgb(95, 55, 55);
+    height: min-content;
+    padding: 2px;
+    
+   }
+    
+   
+   .soical{
+    text-align: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size:large
+    
+}
+   #pimg
+   {
+    border-radius: 50%;
+   }
+   #abc{
+    color: blueviolet;
+   
+ text-align: left;
+   }
+   .last{
+    text-align: center;
+    
+   }
